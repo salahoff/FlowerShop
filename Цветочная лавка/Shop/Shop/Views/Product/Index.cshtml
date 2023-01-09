@@ -1,0 +1,28 @@
+﻿@model Shop.Models.ProductViewModel
+
+@{
+    ViewData["Title"] = @Model.Name;
+}
+
+<div class="album py-5">
+    <div class="row">
+        <div class="col-md-6 mb-4 mb-md-0">
+            <div class="mdb-lightbox">
+                <div class="row product-gallery mx-1">
+                    <div class="col-12 mb-0">
+                        <img class="card-img-top" src="@Url.Content(Model.ImagePath)" alt="Изображение товара" onError="this.src='/images/NotFound.jpg'"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <h5>@Model.Name</h5>
+            <h5><span style="color:#987654" class="mr-1"><strong>@Model.Price &#8381;</strong></span></h5>
+            <p class="pt-1"> @Model.Description</p>
+            <div class="table-responsive mb-2">
+            </div>
+            <a class="btn btn-info" href="/home/index?page=1" role="button">На главную</a>
+            <a class="btn btn-info" href="/cart/add/@Model.Id" role="button">К оформлению заказа</a>
+        </div>
+    </div>
+</div>

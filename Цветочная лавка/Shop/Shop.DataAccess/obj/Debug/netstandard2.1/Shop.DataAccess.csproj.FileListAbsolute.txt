@@ -1,0 +1,90 @@
+C:\Users\aynur\Desktop\eShop_online_store-main\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.deps.json
+C:\Users\aynur\Desktop\eShop_online_store-main\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\eShop_online_store-main\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aynur\Desktop\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\Desktop\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aynur\Desktop\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfo.cs
+C:\Users\aynur\Desktop\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Desktop\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\Файлы\Примеры ИМ\eShop_online_store-main\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.deps.json
+C:\Users\aynur\Desktop\Файлы\Примеры ИМ\eShop_online_store-main\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\Файлы\Примеры ИМ\eShop_online_store-main\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\Файлы\Примеры ИМ\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aynur\Desktop\Файлы\Примеры ИМ\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\Desktop\Файлы\Примеры ИМ\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aynur\Desktop\Файлы\Примеры ИМ\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfo.cs
+C:\Users\aynur\Desktop\Файлы\Примеры ИМ\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Desktop\Файлы\Примеры ИМ\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\Файлы\Примеры ИМ\eShop_online_store-main\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\ZOOвосторг\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.deps.json
+C:\Users\aynur\Desktop\ZOOвосторг\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\ZOOвосторг\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\ZOOвосторг\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aynur\Desktop\ZOOвосторг\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\Desktop\ZOOвосторг\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aynur\Desktop\ZOOвосторг\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfo.cs
+C:\Users\aynur\Desktop\ZOOвосторг\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Desktop\ZOOвосторг\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\ZOOвосторг\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\РустемПрогаНовая\ZOOвосторг\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.deps.json
+C:\Users\aynur\Desktop\РустемПрогаНовая\ZOOвосторг\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\РустемПрогаНовая\ZOOвосторг\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\РустемПрогаНовая\ZOOвосторг\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aynur\Desktop\РустемПрогаНовая\ZOOвосторг\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\Desktop\РустемПрогаНовая\ZOOвосторг\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aynur\Desktop\РустемПрогаНовая\ZOOвосторг\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfo.cs
+C:\Users\aynur\Desktop\РустемПрогаНовая\ZOOвосторг\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Desktop\РустемПрогаНовая\ZOOвосторг\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\РустемПрогаНовая\ZOOвосторг\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\Цветочный дворик\Цветочный дворик\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.deps.json
+C:\Users\aynur\Desktop\Цветочный дворик\Цветочный дворик\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\Цветочный дворик\Цветочный дворик\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\Цветочный дворик\Цветочный дворик\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aynur\Desktop\Цветочный дворик\Цветочный дворик\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\Desktop\Цветочный дворик\Цветочный дворик\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aynur\Desktop\Цветочный дворик\Цветочный дворик\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfo.cs
+C:\Users\aynur\Desktop\Цветочный дворик\Цветочный дворик\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Desktop\Цветочный дворик\Цветочный дворик\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\Цветочный дворик\Цветочный дворик\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\Цветочная лавка\Цветочная лавка\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.deps.json
+C:\Users\aynur\Desktop\Цветочная лавка\Цветочная лавка\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\Цветочная лавка\Цветочная лавка\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\Цветочная лавка\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aynur\Desktop\Цветочная лавка\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\Desktop\Цветочная лавка\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aynur\Desktop\Цветочная лавка\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfo.cs
+C:\Users\aynur\Desktop\Цветочная лавка\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Desktop\Цветочная лавка\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\Цветочная лавка\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\iNUR\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.deps.json
+C:\Users\aynur\Desktop\iNUR\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\iNUR\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\iNUR\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aynur\Desktop\iNUR\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\Desktop\iNUR\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aynur\Desktop\iNUR\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfo.cs
+C:\Users\aynur\Desktop\iNUR\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Desktop\iNUR\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\iNUR\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.deps.json
+C:\Users\aynur\Desktop\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aynur\Desktop\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\Desktop\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aynur\Desktop\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfo.cs
+C:\Users\aynur\Desktop\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Desktop\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\Илья_Программа_ВКР\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\ВКР_цветочный\Программа\Цветочная лавка\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.deps.json
+C:\Users\aynur\Desktop\ВКР_цветочный\Программа\Цветочная лавка\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\ВКР_цветочный\Программа\Цветочная лавка\Shop\Shop.DataAccess\bin\Debug\netstandard2.1\Shop.DataAccess.pdb
+C:\Users\aynur\Desktop\ВКР_цветочный\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\aynur\Desktop\ВКР_цветочный\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\Desktop\ВКР_цветочный\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aynur\Desktop\ВКР_цветочный\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.AssemblyInfo.cs
+C:\Users\aynur\Desktop\ВКР_цветочный\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Desktop\ВКР_цветочный\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.dll
+C:\Users\aynur\Desktop\ВКР_цветочный\Программа\Цветочная лавка\Shop\Shop.DataAccess\obj\Debug\netstandard2.1\Shop.DataAccess.pdb

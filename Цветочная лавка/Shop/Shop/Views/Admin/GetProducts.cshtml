@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Shop.DataAccess.Models.Product>
+
+@{
+    ViewData["Title"] = "Список товаров";
+}
+<div class="row">
+    <div class="col-md-3 my-4">
+        <div class="list-group ">
+            <a asp-action="GetOrders" class="list-group-item list-group-item-action">Заказы</a>
+            <a asp-action="GetUsers" class="list-group-item list-group-item-action">Пользователи</a>
+            <a asp-action="GetRoles" class="list-group-item list-group-item-action">Роли</a>
+            <a asp-action="AddProduct" class="list-group-item list-group-item-action">Добавление товаров</a>
+            <a asp-action="GetProducts" class="list-group-item list-group-item-action">Список товаров</a>
+        </div>
+    </div>
+    <div class="col-md-9 my-4">
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h4>Список товаров</h4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 table-responsive">
+                        <table class="table table-hover table-sm">
+                            <thead>
+                                <tr>
+                                    <th>Наименование</th>
+                                    <th>Операции</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                <tr>
+                                    <td>@item.Name</td>
+                                    <td>
+                                        <a asp-action="Details" asp-controller="Admin" asp-route-id="@item.Id">Подробнее</a> |
+                                        <a asp-action="Edit" asp-controller="Admin" asp-route-id="@item.Id">Изменить</a> |
+                                        <a asp-action="Delete" asp-controller="Admin" asp-route-id="@item.Id" method="post">Удалить</a>
+                                    </td>
+                                </tr>}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,46 @@
+﻿@model Shop.Models.ProductViewModel
+
+@{
+    ViewData["Title"] = "Подробнее о товаре";
+}
+<div class="row">
+    <div class="col-md-3 my-4">
+        <div class="list-group ">
+            <a asp-action="GetOrders" class="list-group-item list-group-item-action">Заказы</a>
+            <a asp-action="GetUsers" class="list-group-item list-group-item-action">Пользователи</a>
+            <a asp-action="GetRoles" class="list-group-item list-group-item-action">Роли</a>
+            <a asp-action="AddProduct" class="list-group-item list-group-item-action">Добавление товаров</a>
+            <a asp-action="GetProducts" class="list-group-item list-group-item-action">Список товаров</a>
+        </div>
+    </div>
+    <div class="col-md-9 my-4">
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h4>Подробнее о товаре</h4>
+                        <hr />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>@Model.Name</h2>
+                        <div>
+                            <dl class="dl-horizontal">
+
+                                <dt>Описание</dt>
+                                <dd>@Model.Description</dd>
+
+                                <dt>Цена</dt>
+                                <dd>@Model.Price</dd>
+
+                                <dt>Изображение товара</dt>
+                                <dd><img class="card-img-top" src="@Model.ImagePath" onError="this.src='/images/NotFound.jpg'" alt="Изображение товара"></dd>
+                            </dl>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

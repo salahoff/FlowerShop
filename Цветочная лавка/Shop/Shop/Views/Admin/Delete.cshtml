@@ -1,0 +1,69 @@
+﻿@model Shop.Models.ProductViewModel
+@{
+    ViewData["Title"] = "Удаление";
+}
+<div class="row">
+    <div class="col-md-3 my-4">
+        <div class="list-group ">
+            <a asp-action="GetOrders" class="list-group-item list-group-item-action">Заказы</a>
+            <a asp-action="GetUsers" class="list-group-item list-group-item-action">Пользователи</a>
+            <a asp-action="GetRoles" class="list-group-item list-group-item-action">Роли</a>
+            <a asp-action="AddProduct" class="list-group-item list-group-item-action">Добавление товаров</a>
+            <a asp-action="GetProducts" class="list-group-item list-group-item-action">Список товаров</a>
+        </div>
+    </div>
+    <div class="col-md-9 my-4">
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h4>Удаление товара</h4>
+                        <hr />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div>
+                            <dl class="dl-horizontal">
+                                @*<dt>ID</dt>
+                                <dd>
+                                    @Html.DisplayFor(model => model.Id)
+                                </dd>*@
+
+                                <dt>Имя</dt>
+                                <dd>
+                                    @Html.DisplayFor(model => model.Name)
+                                </dd>
+
+                                @*<dt>Цена</dt>
+                                <dd>
+                                    @Html.DisplayFor(model => model.Price)
+                                </dd>
+
+                                <dt>Описание</dt>
+                                <dd>
+                                    @Html.DisplayFor(model => model.Description)
+                                </dd>
+
+                                <dt>Изображение товара</dt>
+                                <dd>
+                                    <img class="card-img-top" src="@Model.ImagePath" onError="this.src='/images/NotFound.jpg'" alt="Изображение товара">
+                                </dd>*@
+
+
+                            </dl>
+
+                            <div>
+                                <form asp-controller="Admin" asp-action="Delete" method="post">
+                                    <div class="form-group">
+                                        <input type="submit" class="btn btn-info" value="Удалить" />
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

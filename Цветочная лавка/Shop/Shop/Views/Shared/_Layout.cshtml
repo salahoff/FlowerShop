@@ -1,0 +1,42 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    @await Html.PartialAsync("MetatagsPartial")
+    @await Html.PartialAsync("CssPartial")
+    <link rel="icon" type="image/x-icon" href="~/images/favicone.ico">
+</head>
+<body>
+    @await Html.PartialAsync("HeaderPartial")
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    @await Html.PartialAsync("FooterPartial")
+    @await Html.PartialAsync("ScriptsPartial")
+    @RenderSection("Scripts", required: false)
+
+    <!--СКРОЛИНГ-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script> <!--Для скроллинга вниз-->
+    <script type="text/javascript">$(document).ready(function () {
+
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 100) {
+                $('.scrollup').fadeIn();
+            } else {
+                $('.scrollup').fadeOut();
+            }
+        });
+
+        $('.scrollup').click(function () {
+            $("html, body").animate({ scrollTop: 0 }, 600);
+            return false;
+        });
+
+    });</script>
+
+
+    <a href="#" class="scrollup">Наверх</a>
+
+</body>
+</html>
