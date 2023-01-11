@@ -1,5 +1,7 @@
 # Интернет-магазин "Цветочная лавка"
 
+C#, ASP.NET Core, Entity Framework, SQL Server, 
+
 За основу взят проект пользователя <a href="https://github.com/AntonyKutovoy">AntonyKutovoy</a>
 <br>Источник: https://github.com/AntonyKutovoy/eShop_online_store
 
